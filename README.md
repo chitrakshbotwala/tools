@@ -49,5 +49,5 @@ yarn dev
 
 <hr>
 <p align="center">
-Made with ❤️ in Hong Kong
+Made with ❤️ in INDIA
 </p>
